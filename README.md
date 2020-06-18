@@ -43,6 +43,10 @@ cisco 網路設備預設 cdp enable
 
 查看此設備的所有介面的設定與狀態。
 
+* 輸出
+
+cdp 封包發送頻率、封裝方式(encapsulation)與保留時間(holdtime)。
+
 
 # sh cdp traffic
 

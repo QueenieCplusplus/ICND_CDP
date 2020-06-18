@@ -45,11 +45,11 @@ cisco 網路設備預設 cdp enable
 
 -[x] IP 位址 (第三層通訊協定)
 
--[x] 設備平台
+-[x] 設備平台(platform)
 
--[x] 設備角色
+-[x] 設備角色(capability)
 
--[x] 介面：近端介面與本設備相連出去(outgoing)的埠(又稱遠端介面)
+-[x] 介面：近端介面(local int)與本設備相連出去(outgoing)的埠(又稱遠端介面 port id)
     
 # sh cdp interface
 

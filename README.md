@@ -29,15 +29,19 @@ cisco 網路設備預設 cdp enable
 
 # sh cdp neighbors
 
+更細部資訊
+
+    #show cdp neighbors detail
+
 效果等同於 
 
     #show cdp entry *
     
 # sh cdp interface
 
-查看此設備的 cdp 介面。
+查看此設備的所有介面的設定與狀態。
 
 
 # sh cdp traffic
 
-查看此設備 cdp 的網路流量。
+查看此設備每個介面的資料(frame)流量。

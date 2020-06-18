@@ -10,6 +10,25 @@
 
 (3) 使用映像檔。
 
+# no run 
+
+cisco 網路設備預設 cdp enable
+如欲關閉則：
+
+    (config)#no cdp run
+
+如欲關閉某介面的 cdp
+
+    (config)#sh int  <介面編號>
+
+    (config-if)#no cdp enable 
+
+重啟介面的 cdp 
+
+    (config-if)#cdp enable
+
 # sh cdp neighbor
 
-效果等同於 #show cdp entry *
+效果等同於 
+
+    #show cdp entry *

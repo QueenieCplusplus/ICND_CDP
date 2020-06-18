@@ -14,6 +14,8 @@
 
 使用映像檔案可以從 tftp 上下載，也可從 http 下載。
 
+https://github.com/QueenieCplusplus/ICND_CLI#download-software
+
 # no run 
 
 cisco 網路設備預設 cdp enable

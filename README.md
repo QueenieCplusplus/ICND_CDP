@@ -9,3 +9,7 @@
 (2) 使用設定檔。
 
 (3) 使用映像檔。
+
+# sh cdp neighbor
+
+效果等同於 #show cdp entry *

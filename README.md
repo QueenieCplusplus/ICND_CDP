@@ -12,6 +12,8 @@
 
 (3) 使用映像檔。
 
+使用映像檔案可以從 tftp 上下載，也可從 http 下載。
+
 # no run 
 
 cisco 網路設備預設 cdp enable

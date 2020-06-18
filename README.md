@@ -17,7 +17,7 @@ cisco 網路設備預設 cdp enable
 
     (config)#no cdp run
 
-如欲關閉某介面的 cdp
+如欲關閉某介面的 cdp 可節省頻寬
 
     (config)#sh int  <介面編號>
 

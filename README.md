@@ -1,2 +1,2 @@
-# ICND_CDP
-管理網路環境
+# ICND CDP
+使用 Cisco Discovery Protocol 管理網路環境。

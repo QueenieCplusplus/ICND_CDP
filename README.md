@@ -47,3 +47,7 @@ cisco 網路設備預設 cdp enable
 # sh cdp traffic
 
 查看此設備每個介面的資料(frame)流量。
+
+* 輸出
+
+cdp 封包收發總數與錯誤次數。

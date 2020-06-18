@@ -27,8 +27,17 @@ cisco 網路設備預設 cdp enable
 
     (config-if)#cdp enable
 
-# sh cdp neighbor
+# sh cdp neighbors
 
 效果等同於 
 
     #show cdp entry *
+    
+# sh cdp interface
+
+查看此設備的 cdp 介面。
+
+
+# sh cdp traffic
+
+查看此設備 cdp 的網路流量。
